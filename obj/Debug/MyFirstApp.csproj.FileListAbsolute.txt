@@ -1,0 +1,10 @@
+D:\Selenium Projects\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\Selenium Projects\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\Selenium Projects\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\Selenium Projects\MyFirstApp\bin\Debug\WebDriver.dll
+D:\Selenium Projects\MyFirstApp\bin\Debug\WebDriver.xml
+D:\Selenium Projects\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+D:\Selenium Projects\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Selenium Projects\MyFirstApp\obj\Debug\MyFirstApp.csproj.CopyComplete
+D:\Selenium Projects\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\Selenium Projects\MyFirstApp\obj\Debug\MyFirstApp.pdb
